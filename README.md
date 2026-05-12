@@ -8,7 +8,7 @@
 This repository showcases a high-performance **Goal-Oriented Action Planning (GOAP)** system. It tracks the journey from a research-focused implementation (2024) to a production-optimized bitmask-based system (2026).
 
 ## 🎮 Game Development Context (2024)
-The original project was developed as part of a comprehensive game development study in **Unreal Engine 4/5**. 
+The original project was developed as part of a comprehensive game development study in **Unreal Engine 5**. 
 - **Environment & Level Design:** The world was constructed within Unreal Engine using a mix of custom-built assets and procedural tools.
 - **Modeling:** I used **Blender** to model custom assets for the project.
 - **PCG (Procedural Content Generation):** The project utilizes PCG techniques to dynamically generate environment layouts, ensuring varied gameplay scenarios.
