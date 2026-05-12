@@ -1,5 +1,9 @@
 # GOAP_UnrealEngine: AI Planning Evolution in Unreal Engine
 
+## 📺 Project Demo & Showcase
+[![GOAP AI System Demo](https://img.youtube.com/vi/D5K0g2sD15g/0.jpg)](https://www.youtube.com/watch?v=D5K0g2sD15g)
+*Click the image above to watch the system in action (AI planning, PCG, and environment showcase).*
+
 This repository showcases a high-performance **Goal-Oriented Action Planning (GOAP)** system. It tracks the journey from a research-focused implementation (2024) to a production-optimized bitmask-based system (2026).
 
 ## 🎮 Game Development Context (2024)
@@ -12,7 +16,7 @@ The original project was developed as part of a comprehensive game development s
 
 This repository contains two distinct versions of the GOAP planner:
 
-### -v1-UnrealEngine (2024 - Thesis Version)
+### v1-UnrealEngine (2024 - Thesis Version)
 - **Origin:** Developed as the core AI engine for my Bachelor’s Thesis.
 - **Implementation:** Uses Unreal Engine's containers.
 - **Focus:** Logic accuracy, readability, and integration with the Unreal Engine actor lifecycle.
