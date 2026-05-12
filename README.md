@@ -1,7 +1,7 @@
 # GOAP_UnrealEngine: AI Planning Evolution in Unreal Engine
 
 ## 📺 Project Demo & Showcase
-[![GOAP AI System Demo]([https://github.com/timotej2015/GOAP_UnrealEngine/blob/main/screenshots/Posnetek%20zaslona%202024-06-11%20211309.png](https://www.youtube.com/watch?v=D5K0g2sD15g)
+[![GOAP AI System Demo](https://raw.githubusercontent.com/timotej2015/GOAP_UnrealEngine/main/screenshots/Posnetek%20zaslona%202024-06-11%20211309.png)](https://www.youtube.com/watch?v=D5K0g2sD15g)
 
 *Click the image above to watch the system in action (AI planning, PCG, and environment showcase).*
 
