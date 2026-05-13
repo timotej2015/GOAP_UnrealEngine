@@ -18,7 +18,7 @@ A **Goal-Oriented Action Planning (GOAP)** implementation that evolved from a 20
 
 The original system was developed as the AI backbone of a third-person medieval siege game, built as part of a Bachelor's thesis at the University of Maribor (FERI). The game features two factions of intelligent actors — attackers trying to breach a fortified settlement, defenders trying to stop them — each planning independently using GOAP.
 
-The thesis (*"Razvoj računalniške igre z inteligentnimi akterji"*, 2024) covers the full development process including PCG terrain generation, Dijkstra's algorithm implementation, Blueprint/C++ integration, and performance analysis. The full PDF is included in this repository.
+The thesis ([*"Razvoj računalniške igre z inteligentnimi akterji"*, 2024](https://github.com/timotej2015/GOAP_UnrealEngine/blob/main/docs/2024.08.07_diplomsko_delo-Timotej_Kuzma.pdf)) covers the full development process including PCG terrain generation, Dijkstra's algorithm implementation, Blueprint/C++ integration, and performance analysis. The full PDF is included in this repository.
 
 ---
 
@@ -70,7 +70,7 @@ Each action defines preconditions and promised results as `WorldState` structs (
 
 ## 📄 Academic Reference
 
-The thesis is included as [`2024_08_07_diplomsko_delo-Timotej_Kuzma.pdf`](./docs/2024_08_07_diplomsko_delo-Timotej_Kuzma.pdf). Relevant sections for this codebase: §2.2.2 (GOAP theory), §3.5.1 (full implementation walkthrough), §4 (performance measurements — Dijkstra averages 0.041ms per call at 60 agents, init takes 0.876ms).
+The thesis is included as [`2024_08_07_diplomsko_delo-Timotej_Kuzma.pdf`](https://github.com/timotej2015/GOAP_UnrealEngine/blob/main/docs/2024.08.07_diplomsko_delo-Timotej_Kuzma.pdf). Relevant sections for this codebase: §2.2.2 (GOAP theory), §3.5.1 (full implementation walkthrough), §4 (performance measurements — Dijkstra averages 0.041ms per call at 60 agents, init takes 0.876ms).
 
 ---
 
